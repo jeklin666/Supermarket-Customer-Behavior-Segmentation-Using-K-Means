@@ -22,4 +22,4 @@ Evaluasi matematis membuktikan bahwa titik optimal pembagian klaster berada pada
 ## Cara Menjalankan Proyek
 1. Kloning repositori ini ke komputer lokal Anda.
 2. Pastikan pustaka pendukung seperti `pandas`, `scikit-learn`, dan `matplotlib`/`seaborn` telah terinstal di lingkungan kerja Python Anda.
-3. Jalankan *Jupyter Notebook* `[Nama_File_Anda].ipynb` untuk mereproduksi pipeline preprocessing dan modeling secara end-to-end.
+3. Jalankan *Jupyter Notebook*  untuk mereproduksi pipeline preprocessing dan modeling secara end-to-end.
