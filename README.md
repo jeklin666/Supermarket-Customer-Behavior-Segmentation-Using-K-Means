@@ -1,11 +1,10 @@
 # Supermarket Customer Segmentation Using K-Means Clustering
 
 ## Deskripsi Proyek
-[cite_start]Proyek ini mengimplementasikan algoritma K-Means Clustering untuk melakukan segmentasi pada pelanggan berstatus "Member" berdasarkan data transaksi historis sebuah supermarket[cite: 5, 6]. [cite_start]Analisis ini bertujuan untuk mengekstraksi wawasan terkait pola perilaku pembelian guna mendukung perumusan strategi pemasaran yang lebih efektif, personal, dan tepat sasaran[cite: 9, 24].
+Proyek ini mengimplementasikan algoritma K-Means Clustering untuk melakukan segmentasi pada pelanggan berstatus "Member" berdasarkan data transaksi historis sebuah supermarket. Analisis ini bertujuan untuk mengekstraksi wawasan terkait pola perilaku pembelian guna mendukung perumusan strategi pemasaran yang lebih efektif, personal, dan tepat sasaran.
 
 ## Tautan Presentasi Bisnis
-* **Dokumentasi Lengkap (Notion)**:[ [Masukkan Tautan Notion Anda]](https://app.notion.com/p/PORTOFOLIO-DATA-ANALYST-ZAKII-RAMADHAN-3770d45be53980c4b15cf0451a6cafd5?source=copy_link)
-
+* **Dokumentasi Lengkap (Notion)**:[(https://app.notion.com/p/PORTOFOLIO-DATA-ANALYST-ZAKII-RAMADHAN-3770d45be53980c4b15cf0451a6cafd5?source=copy_link)]
 ## Metodologi dan Pendekatan Analisis
 [cite_start]Proyek ini mengadopsi kerangka kerja standar industri CRISP-DM (Cross Industry Standard Process for Data Mining)[cite: 25]:
 1. [cite_start]**Data Understanding**: Menganalisis 1.000 baris data transaksi supermarket (Januari-Maret 2019) dan memfilter dataset hanya untuk pelanggan berstatus "Member" (565 observasi)[cite: 183, 193, 196, 234].
